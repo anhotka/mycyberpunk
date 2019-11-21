@@ -193,10 +193,10 @@ return
 rem ****** Menu data ******
 
 @items_main:
-data "What do you want to know?", 3
-data "About me",            @show_about
-data "Notable achievements", @show_projects
-data "Contact me",          @show_contacts
+data "Hi! Need some information?", 3
+data "Who is Anhot?",            @show_about
+data "Why am I here?", @show_projects
+data "Anhot's contacts",          @show_contacts
 
 rem **** Contacts data ****
 
