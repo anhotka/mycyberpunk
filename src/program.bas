@@ -202,10 +202,10 @@ rem **** Contacts data ****
 
 @contact_repo:
 data \
-    "Full source of this page",\
+    "Beautifull origin of this page",\
     "available at",\
     "https://github.com",\
-    "   /anhotka/mycyberpunk",\
+    "   /shadowlamer/mycyberpunk",\
     255,255,255,255,255,255,255,255,255,255,255,255,240,22,76,7,247,217,213,247,244,93,13,23,\
     244,95,21,23,244,90,181,23,247,221,117,247,240,21,84,7,255,244,143,255,242,88,213,247,247,\
     99,126,15,249,68,130,183,248,184,108,135,247,138,20,247,244,51,203,111,243,94,9,7,246,246,\
@@ -371,7 +371,7 @@ data "\l,   Left    - return"
 rem ****** Articles *******
 
 @article_about:
-data "photo", 3
+rem data "photo", 3
 data @text_about1
 data @text_about2
 data @text_about3
